@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/go-xamarin/analyzers/project"
-	"github.com/bitrise-io/go-xamarin/builder"
-	"github.com/bitrise-io/go-xamarin/tools/buildtools"
+	"github.com/toggl/go-xamarin/analyzers/project"
+	"github.com/toggl/go-xamarin/builder"
+	"github.com/toggl/go-xamarin/tools/buildtools"
 	"github.com/urfave/cli"
 )
 
